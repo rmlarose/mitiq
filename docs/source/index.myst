@@ -3,16 +3,23 @@
 ```{toctree}
 ---
 maxdepth: 2 
-caption: Contents
+caption: Main Docs
 ---
 readme.myst
 guide/guide.rst
 examples/examples.rst
+```
+```{toctree}
+---
+maxdepth: 2 
+caption: Reference
+---
 apidoc.rst
 citing.rst
 toc_contributing.myst
 changelog.myst
 zz_bibliography.rst
+GitHub repository <https://github.com/unitaryfund/mitiq>
 ```
 
 ## Indices and tables
